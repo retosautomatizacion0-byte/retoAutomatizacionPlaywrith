@@ -55,13 +55,13 @@ Validar que aparezca el mensaje:
 "No tiene artículos en su carrito de compras"
 
 Ejecución de las pruebas
-1. Instalar dependencias
-npm install
-
-2. Ejecutar pruebas con navegador visible
+1. Instalar dependencias npm install
+2. npm init -y
+3. npm i -D @playwright/test
+4. npx playwright install --with-deps
+5. Ejecutar pruebas con navegador visible
 npm run test:headed
-
-3. Generar y abrir el reporte HTML
+6. Generar y abrir el reporte HTML
 npx playwright show-report
 
  Reintentos controlados
