@@ -1,0 +1,14 @@
+{
+  "name": "playwright-mundoflor-fixed",
+  "version": "1.0.1",
+  "private": true,
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "report": "npx playwright show-report playwright-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.38.0",
+    "typescript": "^4.9.5"
+  }
+}

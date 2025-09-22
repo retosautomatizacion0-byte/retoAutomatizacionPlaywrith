@@ -1,0 +1,463 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - text:       
+    - generic [ref=e3]:
+      - link "Floristería Mundo Flor" [ref=e6] [cursor=pointer]:
+        - /url: https://www.floristeriamundoflor.com/
+        - img "Floristería Mundo Flor" [ref=e7] [cursor=pointer]
+      - generic [ref=e8]:
+        - generic [ref=e9]:
+          - link "" [ref=e10] [cursor=pointer]:
+            - /url: "#tbay-mobile-menu-navbar"
+            - generic [ref=e11] [cursor=pointer]: 
+          - text: 
+        - generic [ref=e12]:
+          - generic [ref=e14]:
+            - button "" [ref=e16] [cursor=pointer]:
+              - generic [ref=e17] [cursor=pointer]: 
+            - text: 
+          - button "" [ref=e20] [cursor=pointer]:
+            - generic [ref=e21] [cursor=pointer]: 
+          - button "" [ref=e24] [cursor=pointer]:
+            - generic [ref=e25] [cursor=pointer]: 
+    - banner:       
+    - generic [ref=e26]:
+      - list [ref=e30]:
+        - listitem [ref=e31]:
+          - link "Inicio" [ref=e32] [cursor=pointer]:
+            - /url: https://www.floristeriamundoflor.com
+        - listitem [ref=e33]: / Amor
+      - generic [ref=e35]:
+        - main [ref=e38]:
+          - heading "Amor" [level=1] [ref=e39]
+          - generic [ref=e40]:
+            - text: 
+            - generic [ref=e41]:
+              - button "" [ref=e42] [cursor=pointer]:
+                - generic [ref=e43] [cursor=pointer]: 
+              - button "" [ref=e44] [cursor=pointer]:
+                - generic [ref=e45] [cursor=pointer]: 
+            - combobox "Pedido de la tienda" [ref=e47]:
+              - option "Orden predeterminado" [selected]
+              - option "Ordenar por popularidad"
+              - option "Ordenar por los últimos"
+              - 'option "Ordenar por precio: bajo a alto"'
+              - 'option "Ordenar por precio: alto a bajo"'
+          - generic [ref=e49]:
+            - generic [ref=e51]:
+              - figure [ref=e53]:
+                - link "MDF 0001" [ref=e54] [cursor=pointer]:
+                  - /url: https://www.floristeriamundoflor.com/product/mdf-0001/
+                - generic [ref=e55]:
+                  - 'link "Añadir al carrito: “MDF 0001”" [ref=e57] [cursor=pointer]':
+                    - /url: "?add-to-cart=4100"
+                    - generic [ref=e58] [cursor=pointer]: 
+                    - generic [ref=e59] [cursor=pointer]: Añadir al carrito
+                  - link "" [ref=e61] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e63] [cursor=pointer]: 
+                  - link [ref=e66] [cursor=pointer]:
+                    - /url: "?add_to_wishlist=4100&_wpnonce=3b20e43d01"
+                    - img [ref=e67] [cursor=pointer]
+                  - link " " [ref=e70] [cursor=pointer]:
+                    - /url: /product-category/amor/?action=yith-woocompare-add-product&id=4100&_wpnonce=db62e3dde5
+                    - generic: 
+                    - text: 
+              - generic [ref=e73]:
+                - heading "MDF 0001" [level=3] [ref=e74]:
+                  - link "MDF 0001" [ref=e75] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product/mdf-0001/
+                - generic [ref=e78]:
+                  - generic [ref=e79]: $
+                  - text: "129.000"
+            - generic [ref=e81]:
+              - figure [ref=e83]:
+                - link "MDF 00010" [ref=e84] [cursor=pointer]:
+                  - /url: https://www.floristeriamundoflor.com/product/mdf-00010/
+                - generic [ref=e85]:
+                  - 'link "Añadir al carrito: “MDF 00010”" [ref=e87] [cursor=pointer]':
+                    - /url: "?add-to-cart=4084"
+                    - generic [ref=e88] [cursor=pointer]: 
+                    - generic [ref=e89] [cursor=pointer]: Añadir al carrito
+                  - link "" [ref=e91] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e93] [cursor=pointer]: 
+                  - link [ref=e96] [cursor=pointer]:
+                    - /url: "?add_to_wishlist=4084&_wpnonce=3b20e43d01"
+                    - img [ref=e97] [cursor=pointer]
+                  - link " " [ref=e100] [cursor=pointer]:
+                    - /url: /product-category/amor/?action=yith-woocompare-add-product&id=4084&_wpnonce=db62e3dde5
+                    - generic: 
+                    - text: 
+              - generic [ref=e103]:
+                - heading "MDF 00010" [level=3] [ref=e104]:
+                  - link "MDF 00010" [ref=e105] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product/mdf-00010/
+                - generic [ref=e108]:
+                  - generic [ref=e109]: $
+                  - text: "260.000"
+            - generic [ref=e111]:
+              - figure [ref=e113]:
+                - link "MDF 00012" [ref=e114] [cursor=pointer]:
+                  - /url: https://www.floristeriamundoflor.com/product/mdf-00012/
+                - generic [ref=e115]:
+                  - 'link "Añadir al carrito: “MDF 00012”" [ref=e117] [cursor=pointer]':
+                    - /url: "?add-to-cart=4082"
+                    - generic [ref=e118] [cursor=pointer]: 
+                    - generic [ref=e119] [cursor=pointer]: Añadir al carrito
+                  - link "" [ref=e121] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e123] [cursor=pointer]: 
+                  - link [ref=e126] [cursor=pointer]:
+                    - /url: "?add_to_wishlist=4082&_wpnonce=3b20e43d01"
+                    - img [ref=e127] [cursor=pointer]
+                  - link " " [ref=e130] [cursor=pointer]:
+                    - /url: /product-category/amor/?action=yith-woocompare-add-product&id=4082&_wpnonce=db62e3dde5
+                    - generic: 
+                    - text: 
+              - generic [ref=e133]:
+                - heading "MDF 00012" [level=3] [ref=e134]:
+                  - link "MDF 00012" [ref=e135] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product/mdf-00012/
+                - generic [ref=e138]:
+                  - generic [ref=e139]: $
+                  - text: "129.000"
+            - generic [ref=e141]:
+              - figure [ref=e143]:
+                - link "MDF 00016" [ref=e144] [cursor=pointer]:
+                  - /url: https://www.floristeriamundoflor.com/product/mdf-00016/
+                - generic [ref=e145]:
+                  - 'link "Añadir al carrito: “MDF 00016”" [ref=e147] [cursor=pointer]':
+                    - /url: "?add-to-cart=4078"
+                    - generic [ref=e148] [cursor=pointer]: 
+                    - generic [ref=e149] [cursor=pointer]: Añadir al carrito
+                  - link "" [ref=e151] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e153] [cursor=pointer]: 
+                  - link [ref=e156] [cursor=pointer]:
+                    - /url: "?add_to_wishlist=4078&_wpnonce=3b20e43d01"
+                    - img [ref=e157] [cursor=pointer]
+                  - link " " [ref=e160] [cursor=pointer]:
+                    - /url: /product-category/amor/?action=yith-woocompare-add-product&id=4078&_wpnonce=db62e3dde5
+                    - generic: 
+                    - text: 
+              - generic [ref=e163]:
+                - heading "MDF 00016" [level=3] [ref=e164]:
+                  - link "MDF 00016" [ref=e165] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product/mdf-00016/
+                - generic [ref=e168]:
+                  - generic [ref=e169]: $
+                  - text: "160.000"
+            - generic [ref=e171]:
+              - figure [ref=e173]:
+                - link "MDF 0002" [ref=e174] [cursor=pointer]:
+                  - /url: https://www.floristeriamundoflor.com/product/mdf-0002/
+                - generic [ref=e175]:
+                  - 'link "Añadir al carrito: “MDF 0002”" [ref=e177] [cursor=pointer]':
+                    - /url: "?add-to-cart=4098"
+                    - generic [ref=e178] [cursor=pointer]: 
+                    - generic [ref=e179] [cursor=pointer]: Añadir al carrito
+                  - link "" [ref=e181] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e183] [cursor=pointer]: 
+                  - link [ref=e186] [cursor=pointer]:
+                    - /url: "?add_to_wishlist=4098&_wpnonce=3b20e43d01"
+                    - img [ref=e187] [cursor=pointer]
+                  - link " " [ref=e190] [cursor=pointer]:
+                    - /url: /product-category/amor/?action=yith-woocompare-add-product&id=4098&_wpnonce=db62e3dde5
+                    - generic: 
+                    - text: 
+              - generic [ref=e193]:
+                - heading "MDF 0002" [level=3] [ref=e194]:
+                  - link "MDF 0002" [ref=e195] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product/mdf-0002/
+                - generic [ref=e198]:
+                  - generic [ref=e199]: $
+                  - text: "170.000"
+            - generic [ref=e201]:
+              - figure [ref=e203]:
+                - link "MDF 00021" [ref=e204] [cursor=pointer]:
+                  - /url: https://www.floristeriamundoflor.com/product/mdf-00021/
+                - generic [ref=e205]:
+                  - 'link "Añadir al carrito: “MDF 00021”" [ref=e207] [cursor=pointer]':
+                    - /url: "?add-to-cart=4073"
+                    - generic [ref=e208] [cursor=pointer]: 
+                    - generic [ref=e209] [cursor=pointer]: Añadir al carrito
+                  - link "" [ref=e211] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e213] [cursor=pointer]: 
+                  - link [ref=e216] [cursor=pointer]:
+                    - /url: "?add_to_wishlist=4073&_wpnonce=3b20e43d01"
+                    - img [ref=e217] [cursor=pointer]
+                  - link " " [ref=e220] [cursor=pointer]:
+                    - /url: /product-category/amor/?action=yith-woocompare-add-product&id=4073&_wpnonce=db62e3dde5
+                    - generic: 
+                    - text: 
+              - generic [ref=e223]:
+                - heading "MDF 00021" [level=3] [ref=e224]:
+                  - link "MDF 00021" [ref=e225] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product/mdf-00021/
+                - generic [ref=e228]:
+                  - generic [ref=e229]: $
+                  - text: "255.000"
+            - generic [ref=e231]:
+              - figure [ref=e233]:
+                - link "MDF 00025" [ref=e234] [cursor=pointer]:
+                  - /url: https://www.floristeriamundoflor.com/product/mdf-00025/
+                - generic [ref=e235]:
+                  - 'link "Añadir al carrito: “MDF 00025”" [ref=e237] [cursor=pointer]':
+                    - /url: "?add-to-cart=4069"
+                    - generic [ref=e238] [cursor=pointer]: 
+                    - generic [ref=e239] [cursor=pointer]: Añadir al carrito
+                  - link "" [ref=e241] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e243] [cursor=pointer]: 
+                  - link [ref=e246] [cursor=pointer]:
+                    - /url: "?add_to_wishlist=4069&_wpnonce=3b20e43d01"
+                    - img [ref=e247] [cursor=pointer]
+                  - link " " [ref=e250] [cursor=pointer]:
+                    - /url: /product-category/amor/?action=yith-woocompare-add-product&id=4069&_wpnonce=db62e3dde5
+                    - generic: 
+                    - text: 
+              - generic [ref=e253]:
+                - heading "MDF 00025" [level=3] [ref=e254]:
+                  - link "MDF 00025" [ref=e255] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product/mdf-00025/
+                - generic [ref=e258]:
+                  - generic [ref=e259]: $
+                  - text: "140.000"
+            - generic [ref=e261]:
+              - figure [ref=e263]:
+                - link "MDF 00026" [ref=e264] [cursor=pointer]:
+                  - /url: https://www.floristeriamundoflor.com/product/mdf-00026/
+                - generic [ref=e265]:
+                  - 'link "Añadir al carrito: “MDF 00026”" [ref=e267] [cursor=pointer]':
+                    - /url: "?add-to-cart=4068"
+                    - generic [ref=e268] [cursor=pointer]: 
+                    - generic [ref=e269] [cursor=pointer]: Añadir al carrito
+                  - link "" [ref=e271] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e273] [cursor=pointer]: 
+                  - link [ref=e276] [cursor=pointer]:
+                    - /url: "?add_to_wishlist=4068&_wpnonce=3b20e43d01"
+                    - img [ref=e277] [cursor=pointer]
+                  - link " " [ref=e280] [cursor=pointer]:
+                    - /url: /product-category/amor/?action=yith-woocompare-add-product&id=4068&_wpnonce=db62e3dde5
+                    - generic: 
+                    - text: 
+              - generic [ref=e283]:
+                - heading "MDF 00026" [level=3] [ref=e284]:
+                  - link "MDF 00026" [ref=e285] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product/mdf-00026/
+                - generic [ref=e288]:
+                  - generic [ref=e289]: $
+                  - text: "145.000"
+            - generic [ref=e291]:
+              - figure [ref=e293]:
+                - link "MDF 0003" [ref=e294] [cursor=pointer]:
+                  - /url: https://www.floristeriamundoflor.com/product/mdf-0003/
+                - generic [ref=e295]:
+                  - 'link "Añadir al carrito: “MDF 0003”" [ref=e297] [cursor=pointer]':
+                    - /url: "?add-to-cart=4096"
+                    - generic [ref=e298] [cursor=pointer]: 
+                    - generic [ref=e299] [cursor=pointer]: Añadir al carrito
+                  - link "" [ref=e301] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e303] [cursor=pointer]: 
+                  - link [ref=e306] [cursor=pointer]:
+                    - /url: "?add_to_wishlist=4096&_wpnonce=3b20e43d01"
+                    - img [ref=e307] [cursor=pointer]
+                  - link " " [ref=e310] [cursor=pointer]:
+                    - /url: /product-category/amor/?action=yith-woocompare-add-product&id=4096&_wpnonce=db62e3dde5
+                    - generic: 
+                    - text: 
+              - generic [ref=e313]:
+                - heading "MDF 0003" [level=3] [ref=e314]:
+                  - link "MDF 0003" [ref=e315] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product/mdf-0003/
+                - generic [ref=e318]:
+                  - generic [ref=e319]: $
+                  - text: "180.000"
+          - list [ref=e321]:
+            - listitem [ref=e322]:
+              - generic "Página 1" [ref=e323]: "1"
+            - listitem [ref=e324]:
+              - link "Página 2" [ref=e325] [cursor=pointer]:
+                - /url: https://www.floristeriamundoflor.com/product-category/amor/page/2/
+                - text: "2"
+            - listitem [ref=e326]:
+              - link "Página 3" [ref=e327] [cursor=pointer]:
+                - /url: https://www.floristeriamundoflor.com/product-category/amor/page/3/
+                - text: "3"
+            - listitem [ref=e328]:
+              - link "Página 4" [ref=e329] [cursor=pointer]:
+                - /url: https://www.floristeriamundoflor.com/product-category/amor/page/4/
+                - text: "4"
+            - listitem [ref=e330]:
+              - generic [ref=e331]: …
+            - listitem [ref=e332]:
+              - link "Página 6" [ref=e333] [cursor=pointer]:
+                - /url: https://www.floristeriamundoflor.com/product-category/amor/page/6/
+                - text: "6"
+            - listitem [ref=e334]:
+              - link "Página 7" [ref=e335] [cursor=pointer]:
+                - /url: https://www.floristeriamundoflor.com/product-category/amor/page/7/
+                - text: "7"
+            - listitem [ref=e336]:
+              - link "Página 8" [ref=e337] [cursor=pointer]:
+                - /url: https://www.floristeriamundoflor.com/product-category/amor/page/8/
+                - text: "8"
+            - listitem [ref=e338]:
+              - link "→" [ref=e339] [cursor=pointer]:
+                - /url: https://www.floristeriamundoflor.com/product-category/amor/page/2/
+        - generic [ref=e340]:
+          - text: 
+          - complementary [ref=e341]:
+            - complementary [ref=e342]:
+              - heading "Categorías" [level=2] [ref=e343]
+              - list [ref=e345]:
+                - listitem [ref=e346]:
+                  - link "Agradecimientos" [ref=e347] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product-category/agradecimientos/
+                - listitem [ref=e348]:
+                  - link "Anchetas" [ref=e349] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product-category/anchetas/
+                - listitem [ref=e350]:
+                  - link "Aniversario" [ref=e351] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product-category/aniversario/
+                - listitem [ref=e352]:
+                  - link "Cumpleaños" [ref=e353] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product-category/cumpleanos/
+                - listitem [ref=e354]:
+                  - link "Desayunos" [ref=e355] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product-category/desayunos/
+                - listitem [ref=e356]:
+                  - link "Condolencias" [ref=e357] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product-category/condolencias/
+                - listitem [ref=e358]:
+                  - link "Grados" [ref=e359] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product-category/grados/
+                - listitem [ref=e360]:
+                  - link "Nacimiento" [ref=e361] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product-category/nacimiento/
+                - listitem [ref=e362]:
+                  - link "Promociones" [ref=e363] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product-category/promociones/
+                - listitem [ref=e364]:
+                  - link "Ramilletes y Cajas" [ref=e365] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product-category/ramilletes-y-cajas/
+                - listitem [ref=e366]:
+                  - link "Amor" [ref=e367] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product-category/amor/
+                - listitem [ref=e368]:
+                  - link "Premium" [ref=e369] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product-category/premium/
+            - complementary [ref=e370]:
+              - heading "Filtrar por Precio" [level=2] [ref=e371]
+              - generic [ref=e378]:
+                - generic [ref=e379]: Precio mínimo
+                - generic [ref=e380]: Precio máximo
+                - button "Filtrar" [ref=e381] [cursor=pointer]
+                - generic [ref=e382]:
+                  - text: "Precio:"
+                  - generic [ref=e383]: $ 95.000
+                  - text: —
+                  - generic [ref=e384]: $ 1.200.000
+            - complementary [ref=e385]:
+              - heading "Productos" [level=2] [ref=e386]
+              - list [ref=e387]:
+                - listitem [ref=e388]:
+                  - link "MDF00185" [ref=e389] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product/mdf00185/
+                    - generic [ref=e390] [cursor=pointer]: MDF00185
+                  - generic [ref=e392]:
+                    - generic [ref=e393]: $
+                    - text: "180.000"
+                - listitem [ref=e394]:
+                  - link "MDF00183" [ref=e395] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product/mdf00183/
+                    - generic [ref=e396] [cursor=pointer]: MDF00183
+                  - generic [ref=e398]:
+                    - generic [ref=e399]: $
+                    - text: "175.000"
+                - listitem [ref=e400]:
+                  - link "MDF00182" [ref=e401] [cursor=pointer]:
+                    - /url: https://www.floristeriamundoflor.com/product/mdf00182/
+                    - generic [ref=e402] [cursor=pointer]: MDF00182
+                  - generic [ref=e404]:
+                    - generic [ref=e405]: $
+                    - text: "180.000"
+    - contentinfo [ref=e406]:
+      - generic [ref=e409]:
+        - generic [ref=e412]:
+          - heading "Floristería Mundo Flor" [level=3] [ref=e414]:
+            - generic [ref=e415]: Floristería Mundo Flor
+          - figure [ref=e417]:
+            - img "logo" [ref=e419]
+          - generic [ref=e422]:
+            - generic [ref=e423]:
+              - generic [ref=e424]: 
+              - text: Nuestra Ubicación
+            - generic [ref=e425]:
+              - text: Carrera 39 Número 49-22
+              - link "Ver Mapa" [ref=e426] [cursor=pointer]:
+                - /url: https://goo.gl/maps/nuFegJgjqhT2
+            - generic [ref=e427]: 216 62 69 - 312 549 43 35
+            - generic [ref=e428]: mundoflor@hotmail.com
+        - generic [ref=e433]:
+          - heading "Categorías" [level=2] [ref=e434]
+          - list [ref=e436]:
+            - listitem [ref=e437]:
+              - link "New Arrivals" [ref=e438] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e439]:
+              - link "All Categories" [ref=e440] [cursor=pointer]:
+                - /url: https://www.floristeriamundoflor.com/shop/
+        - generic [ref=e443]:
+          - heading "Suscribete para recibir Promociones" [level=3] [ref=e445]:
+            - generic [ref=e446]: Suscribete para recibir Promociones
+          - generic [ref=e448]:
+            - paragraph [ref=e449]: Envíanos Un Correo
+            - generic [ref=e453]:
+              - textbox "Your email*" [ref=e454]
+              - button "Sign Up" [ref=e456] [cursor=pointer]
+          - list [ref=e459]:
+            - listitem [ref=e460]:
+              - link "" [ref=e461] [cursor=pointer]:
+                - /url: https://www.facebook.com/mundoflor10
+                - generic [ref=e462] [cursor=pointer]: 
+            - listitem [ref=e463]:
+              - link "" [ref=e464] [cursor=pointer]:
+                - /url: https://www.instagram.com/floristeriamundoflor/?hl=es-la
+                - generic [ref=e465] [cursor=pointer]: 
+      - generic [ref=e468]:
+        - heading "Pagos Confiables con :" [level=3] [ref=e474]
+        - figure [ref=e479]:
+          - img "formas de pago segura2" [ref=e481]
+      - paragraph [ref=e490]:
+        - text: © 2019
+        - generic [ref=e491]: Floristería Mundo Flor.
+        - text: Designed by
+        - link "Majo Publicidad" [ref=e492] [cursor=pointer]:
+          - /url: http://majopublicidad.com
+        - text: . All Rights Reserved.
+    - text:     
+  - text: 
+  - generic:
+    - generic [ref=e498] [cursor=pointer]:
+      - generic: Abrir chat
+      - generic: "1"
+    - generic:
+      - generic:
+        - img "WhatsApp"
+      - generic:
+        - generic:
+          - generic:
+            - text: Hola
+            - text: ¿En qué podemos ayudarte?
+    - img
+  - status [ref=e502]
+```
